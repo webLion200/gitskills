@@ -2,4 +2,4 @@
 
 Creating a new branch is quick.
 
-666666666666666
+Creating a new branch is quick & simple.
